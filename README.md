@@ -37,7 +37,7 @@ Tree {
 
 ## Details
 
-Example code below from [./src/car.rs].
+Example code below from [./src/car.rs](./src/car.rs).
 
 I like to have structs in their own separate module. I prefer to keep all the fields private and have a public `new` associated function which takes all the data needed to configure the appropriate fields.
 
