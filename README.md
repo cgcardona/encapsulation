@@ -1,9 +1,3 @@
-[package]
-name = "generic"
-version = "0.1.0"
-authors = ["Gabriel Cardona <cgcardona@gmail.com>"]
-edition = "2018"
+# Encapsulation
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
+This is a small demo to show how I prefer to encapsulate the creation of new data structs and ensure a default implementation.
