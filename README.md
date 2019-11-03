@@ -45,7 +45,7 @@ I also like to have a `Default` implementation which `new` falls back to in the 
 
 The only part I'm still unclear on is if it's idiomatic to pass `Option` in to `new` in this way.
 
-```rs
+```rust
 #[derive(Debug)]
 pub struct Car {
     color: &'static str,
